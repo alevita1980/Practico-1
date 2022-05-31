@@ -1,7 +1,7 @@
 # Practico-1
 **Volkswagen Camiones**
 
-![camion_logo](/Images/auto-show-designify.png)
+![camion_logo](../Images/auto-show-designify.png)
 
 
 Este proyecto consiste en armar una Pagina Web basada en los conocimientos adquiridos en el curso de Desarrollador Web. La misma se realizo sobre la venta de vehiculos pesados.
